@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "arkana_machina:item/arcane_crystal"
+  }
+}
